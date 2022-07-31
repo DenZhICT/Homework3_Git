@@ -7,9 +7,9 @@ public class Forgit {
         Scanner sc = new Scanner(System.in);
         int a=sc.nextInt(),b=sc.nextInt();
         if (a==b){
-            System.out.println("You_are_cool?");
+            System.out.println("You are cool!");
         }else{
-            System.out.println("You_are_dead?");
+            System.out.println("You are dead!");
         }
     }
 }
